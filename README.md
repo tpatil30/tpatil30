@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <li>Docker</li>
 <li>Azure Cloud</li>
 <li>Bash and Powershell Scripting</li>
-<li>Linuxn</li>
+<li>Linux</li>
 <li>DevOps</li>
 <li>Ansible and Terraform</li>
 </ul>
